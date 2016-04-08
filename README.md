@@ -27,7 +27,6 @@ _important links relating to css architecture_
 ## Slidedecks
 
 - [Practical, maintainable CSS](http://www.slideshare.net/nataliedowne/practical-maintainable-css) 03/05/2009
-- 
 
 ## Books
 
