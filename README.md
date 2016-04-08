@@ -23,7 +23,6 @@ _important links relating to css architecture_
 ## Videos
 
 - [Practical, maintainable CSS](https://vimeo.com/3493226) 03/05/2009
-- 
 
 ## Slidedecks
 
