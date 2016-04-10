@@ -28,6 +28,7 @@ _important links relating to css architecture_
 
 ### 2014
 
+- [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/) 08/25/2014
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects) 08/07/2014
 - [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries/) 02/06/2014
 - [Design Systems: Building for the Future](https://css-tricks.com/design-systems-building-future/) 02/05/2014
