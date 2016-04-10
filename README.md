@@ -11,6 +11,7 @@ _important links relating to css architecture_
 ## Articles
 
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/) 03/24/2016
+- [CSS Modules](http://glenmaddern.com/articles/css-modules) 08/19/2015
 - [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/) 07/07/2015
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) 05/09/2015
 - [Immutable CSS](http://csswizardry.com/2015/03/immutable-css/) 03/11/2015
