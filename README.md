@@ -11,6 +11,7 @@ _important links relating to css architecture_
 ## Articles
 
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/) 03/24/2016
+- [Putting My Patterns through Their Paces](https://24ways.org/2015/putting-my-patterns-through-their-paces/) 12/10/2015
 - [CSS Modules](http://glenmaddern.com/articles/css-modules) 08/19/2015
 - [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/) 07/07/2015
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) 05/09/2015
