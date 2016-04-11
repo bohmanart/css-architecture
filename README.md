@@ -63,7 +63,8 @@ _important links relating to css architecture_
 
 ## Books
 
-- [Enduring CSS](http://ecss.io/) 
+- [Enduring CSS](http://ecss.io/)
+- [SMACSS - Scalable and Modular Architecture for CSS](https://smacss.com/book)
 
 ## People
 
