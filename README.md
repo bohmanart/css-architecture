@@ -7,6 +7,9 @@ _important links relating to css architecture_
 - http://styleguides.io/
 - http://styleguide.pivotal.io/
 - http://primercss.io/
+- http://mdo.github.io/code-guide/
+- https://github.com/trello/trellisheets
+
 
 ## Articles
 
