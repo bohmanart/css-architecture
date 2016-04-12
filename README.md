@@ -55,6 +55,7 @@ _important links relating to css architecture_
 ### 2011
 
 - [An Introduction to Object Oriented CSS (OOCSS)](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/) 12/12/2011
+- [Front-end Style Guides](https://24ways.org/2011/front-end-style-guides/) 12/07/2011
 
 ## Videos
 
