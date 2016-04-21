@@ -44,7 +44,8 @@ _important links relating to css architecture_
 
 ### 2012
 
-- [CSS Architecture](http://philipwalton.com/articles/css-architecture/) 11/16/12
+- [CSS Architecture](http://philipwalton.com/articles/css-architecture/) 11/16/2012
+- [CSS Architecture - Appfolio Engineering](http://engineering.appfolio.com/2012/11/16/css-architecture/) 11/15/2012
 - [SOLID CSS](http://blog.millermedeiros.com/solid-css/) 09/10/2012
 - [Shoot to kill: CSS selector intent](http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/) 07/17/2012
 - [The open/closed principle applied to CSS](http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/) 06/21/2012
@@ -69,6 +70,12 @@ _important links relating to css architecture_
 
 - [Enduring CSS](http://ecss.io/)
 - [SMACSS - Scalable and Modular Architecture for CSS](https://smacss.com/book)
+
+## How others are doing it
+
+- [CSS at Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
+- [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css)
+- [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 
 ## People
 
