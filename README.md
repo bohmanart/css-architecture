@@ -15,6 +15,7 @@ _important links relating to css architecture_
 - [OOCSS](https://github.com/stubbornella/oocss)
 - [SUIT CSS](https://suitcss.github.io/)
 - [Basscss](http://www.basscss.com/)
+- [Rebass](http://jxnblk.com/rebass/)
 - [Gemma](https://github.com/colepeters/gemma)
 - [Tachyons](http://tachyons.io/)
 
