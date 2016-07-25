@@ -32,6 +32,7 @@ _important links relating to css architecture_
 - [Building and shipping functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/) 11/29/2015
 - [CSS Modules](http://glenmaddern.com/articles/css-modules) 08/19/2015
 - [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/) 07/07/2015
+- [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css/) 06/30/2015
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) 05/09/2015
 - [Immutable CSS](http://csswizardry.com/2015/03/immutable-css/) 03/11/2015
 - [Can CSS Be Too Modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/) 03/08/2015
