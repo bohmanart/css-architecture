@@ -49,6 +49,7 @@ _important links relating to css architecture_
 
 ### 2013
 
+- [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/) 10/21/2013
 - [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/) 06/10/2013
 - [MindBEMding - getting your head around BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) 01/25/2013
 
