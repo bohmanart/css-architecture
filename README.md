@@ -18,7 +18,7 @@ _important links relating to css architecture_
 - [Rebass](http://jxnblk.com/rebass/)
 - [Gemma](https://github.com/colepeters/gemma)
 - [Tachyons](http://tachyons.io/)
-- [Shed.css](http://tedconf.github.io/shed-css/)
+- [Shed CSS](http://tedconf.github.io/shed-css/)
 
 ## Articles
 
