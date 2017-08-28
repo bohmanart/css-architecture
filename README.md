@@ -18,8 +18,16 @@ _important links relating to css architecture_
 - [Rebass](http://jxnblk.com/rebass/)
 - [Gemma](https://github.com/colepeters/gemma)
 - [Tachyons](http://tachyons.io/)
+- [Shed.css](http://tedconf.github.io/shed-css/)
 
 ## Articles
+
+## 2017
+
+- [So you need a CSS utility library?](https://css-tricks.com/need-css-utility-library/) 08/24/2017
+- [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/) 04/10/2017
+- [Full re-write in 10 days with tachyons and functional CSS: A case study (Part 1)](https://hackernoon.com/full-re-write-with-tachyons-and-functional-css-a-case-study-part-1-635ccb5fb00b) 02/28/2017
+
 
 ### 2016
 
