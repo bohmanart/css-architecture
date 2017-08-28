@@ -22,7 +22,7 @@ _important links relating to css architecture_
 
 ## Articles
 
-## 2017
+### 2017
 
 - [So you need a CSS utility library?](https://css-tricks.com/need-css-utility-library/) 08/24/2017
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/) 04/10/2017
