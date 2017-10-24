@@ -31,6 +31,7 @@ _important links relating to css architecture_
 
 ### 2016
 
+- [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron) 12/06/2016
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/) 03/24/2016
 
 
