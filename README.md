@@ -24,13 +24,16 @@ _important links relating to css architecture_
 
 ### 2017
 
+- [Rebuilding slack.com](https://slack.engineering/rebuilding-slack-com-b124c405c193) 10/11/2017
 - [So you need a CSS utility library?](https://css-tricks.com/need-css-utility-library/) 08/24/2017
+- [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 05/22/2017
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/) 04/10/2017
 - [Full re-write in 10 days with tachyons and functional CSS: A case study (Part 1)](https://hackernoon.com/full-re-write-with-tachyons-and-functional-css-a-case-study-part-1-635ccb5fb00b) 02/28/2017
 
 
 ### 2016
 
+- [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron) 12/06/2016
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/) 03/24/2016
 
 
