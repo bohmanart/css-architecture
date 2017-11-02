@@ -2,13 +2,14 @@
 
 _important links relating to css architecture_
 
-## Style Guides and Pattern Libraries
+## Style Guides, Design Systems, Component and Pattern Libraries (Or what ever else we end up calling these things!) 
 
 - http://styleguides.io/
 - http://styleguide.pivotal.io/
 - http://primercss.io/
 - http://mdo.github.io/code-guide/
 - https://github.com/trello/trellisheets
+- http://design-system.pluralsight.com/
 
 ## Tools
 
