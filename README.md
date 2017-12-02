@@ -25,7 +25,9 @@ _important links relating to css architecture_
 
 ### 2017
 
+- [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/) 12/1/2017
 - [Rebuilding slack.com](https://slack.engineering/rebuilding-slack-com-b124c405c193) 10/11/2017
+- [Building a large-scale design system: How we created a design system for the U.S. government](https://18f.gsa.gov/2017/10/03/building-a-large-scale-design-system/) 10/3/2017
 - [So you need a CSS utility library?](https://css-tricks.com/need-css-utility-library/) 08/24/2017
 - [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 05/22/2017
 - [Let’s Define Exactly What Atomic CSS is](https://css-tricks.com/lets-define-exactly-atomic-css/) 04/10/2017
